@@ -12,20 +12,6 @@ Many ideas fail not because they are bad, but because they are **never properly 
 This system works like a **virtual startup advisor** that analyzes your idea, highlights gaps, and suggests improvements — all in seconds.
 
 ---
-
-##  What You Can Do With It
-
-Just enter your idea and the system will:
-
-*  Break down your concept into clear insights
-*  Analyze feasibility, business value, and user impact
-*  Identify risks, challenges, and dependencies
-*  Suggest improvements
-*  Provide execution direction
-*  Give a final score and verdict
-
----
-
 ##  Tech Stack
 
 * **Python** → Core logic
