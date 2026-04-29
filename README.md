@@ -5,7 +5,7 @@ This project helps you **validate your idea before you invest your time, money, 
 
 ---
 
-## 💡 The Idea Behind This Project
+##  The Idea Behind This Project
 
 Many ideas fail not because they are bad, but because they are **never properly evaluated**.
 
@@ -13,20 +13,20 @@ This system works like a **virtual startup advisor** that analyzes your idea, hi
 
 ---
 
-## ✨ What You Can Do With It
+##  What You Can Do With It
 
 Just enter your idea and the system will:
 
-* 🧠 Break down your concept into clear insights
-* 📊 Analyze feasibility, business value, and user impact
-* ⚠️ Identify risks, challenges, and dependencies
-* 🚀 Suggest improvements
-* 📅 Provide execution direction
-* ⭐ Give a final score and verdict
+*  Break down your concept into clear insights
+*  Analyze feasibility, business value, and user impact
+*  Identify risks, challenges, and dependencies
+*  Suggest improvements
+*  Provide execution direction
+*  Give a final score and verdict
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python** → Core logic
 * **LLM APIs Groq **→ AI analysis
@@ -35,7 +35,7 @@ Just enter your idea and the system will:
 
 ---
 
-## 🔗 API Usage
+##  API Usage
 
 This project uses **LLM APIs Groq to generate intelligent insights.**
 
@@ -43,7 +43,7 @@ This project uses **LLM APIs Groq to generate intelligent insights.**
 * Prompts are designed to ensure **short, meaningful (1–2 line) outputs**
 * API calls are handled securely in the backend (API keys are not exposed in the UI)
 
-### ⚙️ Setup API Key
+###  Setup API Key
 
 Add your API key in the `llm.py` file:
 
@@ -51,11 +51,11 @@ Add your API key in the `llm.py` file:
 client = Groq(api_key="YOUR_API_KEY")
 ```
 
-> ⚠️ Never expose your API key in public repositories
+>  Never expose your API key in public repositories
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Enter your startup idea
 2. AI processes it using structured prompts
@@ -69,11 +69,9 @@ client = Groq(api_key="YOUR_API_KEY")
 
 ---
 
-## ▶️ Run It Locally
+##  Run It Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 pip install -r requirements.txt
 streamlit run app.py
 ```
