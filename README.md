@@ -3,7 +3,6 @@
 Got a startup idea but not sure if it’s actually worth building?
 This project helps you **validate your idea before you invest your time, money, and effort.**
 
----
 
 ##  The Idea Behind This Project
 
@@ -11,7 +10,7 @@ Many ideas fail not because they are bad, but because they are **never properly 
 
 This system works like a **virtual startup advisor** that analyzes your idea, highlights gaps, and suggests improvements.
 
----
+
 ##  Tech Stack
 
 * **Python** → Core logic
@@ -19,7 +18,7 @@ This system works like a **virtual startup advisor** that analyzes your idea, hi
 * **Streamlit** → User interface
 * **Prompt Engineering** → Structured responses
 
----
+
 
 ##  API Usage
 
@@ -39,7 +38,7 @@ client = Groq(api_key="YOUR_API_KEY")
 
 >  Never expose your API key in public repositories
 
----
+
 
 ##  How It Works
 
@@ -53,7 +52,6 @@ client = Groq(api_key="YOUR_API_KEY")
    * Market potential
 4. You get a **clear, actionable report**
 
----
 
 ##  Run It Locally
 
