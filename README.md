@@ -9,7 +9,7 @@ This project helps you **validate your idea before you invest your time, money, 
 
 Many ideas fail not because they are bad, but because they are **never properly evaluated**.
 
-This system works like a **virtual startup advisor** that analyzes your idea, highlights gaps, and suggests improvements — all in seconds.
+This system works like a **virtual startup advisor** that analyzes your idea, highlights gaps, and suggests improvements.
 
 ---
 ##  Tech Stack
